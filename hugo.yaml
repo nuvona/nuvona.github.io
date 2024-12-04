@@ -5,6 +5,9 @@ theme: PaperMod
 enableRobotsTXT: true
 
 params:
+  homeInfoParams:
+    Title: Welcome to Jainish's Log ! 
+    Content: Hi
   defaultTheme: dark
   env: production
   author: Shaggy
