@@ -6,7 +6,7 @@ enableRobotsTXT: true
 
 params:
   env: production
-  author: Jainish Patel
+  author: Shaggy
 
   ShowReadingTime: true
   ShowShareButtons: true
