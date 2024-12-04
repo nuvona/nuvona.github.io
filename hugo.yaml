@@ -1,0 +1,12 @@
+baseURL: https://nuvona.github.io/
+languageCode: en-us
+title: Nuvona
+theme: PaperMod
+enableRobotsTXT: true
+
+params:
+  env: production
+  author: Jainish Patel
+
+  ShowReadingTime: true
+  ShowShareButtons: true
